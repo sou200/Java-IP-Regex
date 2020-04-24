@@ -1,5 +1,3 @@
-import java.util.regex.*;
-
 public class JavaRegexIP {
 	public static void main(String[] args) {
 		String strIP = "127.0.0.255";
